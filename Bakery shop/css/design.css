@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(139, 97, 62);
+    font-family: cursive;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+/* Implement element selector css */
+h2,p{
+    color: black;
+    font-family: cursive;
+
+}
+.topnav-right {
+    float: right;
+    font-family: cursive;
+    font-size: 1.25em;
+    font-weight: lighter;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 5px solid burlywood;
+    border-bottom: 5px solid burlywood;
+    border-radius: 10px;
+    background-color: burlywood;
+  }
+nav{
+    font-family: cursive;
+    font-size: 1.25em;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 5px solid burlywood;
+    border-bottom: 5px solid burlywood;
+    border-radius: 10px;
+}
+main{
+    display: block;
+    font-family: cursive;
+    font-size: 1em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: burlywood;
+    box-shadow: 12px 12px 12px white;
+    
+    
+}
+footer{
+    font-size: 1em;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(139, 97, 62);
+}
+
+/* Implement ID selector css */
+#list{
+   
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: cursive;
+    
+}
+/* Implemente class selector css */
+.image{
+    text-align: center;
+    border-radius: 16px;
+   
+    
+
+}
